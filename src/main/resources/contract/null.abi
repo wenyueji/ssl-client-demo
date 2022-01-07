@@ -1,0 +1,32 @@
+{
+    "____comment": "This file was generated with eosio-abigen. DO NOT EDIT ",
+    "version": "eosio::abi/1.1",
+    "types": [],
+    "structs": [
+        {
+            "name": "n",
+            "base": "",
+            "fields": [
+                {
+                    "name": "i",
+                    "type": "uint8"
+                }
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "name": "n",
+            "type": "n",
+            "ricardian_contract": ""
+        }
+    ],
+    "tables": [],
+    "ricardian_clauses": [
+        {
+            "id": "null",
+            "body": "---\nversion:null\ntitle: null\nsummary: null"
+        }
+    ],
+    "variants": []
+}
